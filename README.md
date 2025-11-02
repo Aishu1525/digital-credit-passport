@@ -16,24 +16,24 @@ The Digital Credit Passport for Farmers (DCP) is a bilingual web-based platform 
 
 🧠 **Key Features**
 
-*🪪 Digital Farmer Profile: Stores verified crop, income, and credit history.
-*📊 AI-based Credit Scoring: Generates a data-driven credit score for farmers.
-*🌐 Bilingual Web Interface: Available in English and a local language for better reach.
-*🔗 Blockchain Verification: Ensures data security and prevents tampering.
-*🏦 Bank Integration via REST APIs: Enables banks to access and verify farmer profiles directly.
-*☁️ Cloud Deployment: Ensures scalability and real-time access across regions.
+* 🪪 Digital Farmer Profile: Stores verified crop, income, and credit history.
+* 📊 AI-based Credit Scoring: Generates a data-driven credit score for farmers.
+* 🌐 Bilingual Web Interface: Available in English and a local language for better reach.
+* 🔗 Blockchain Verification: Ensures data security and prevents tampering.
+* 🏦 Bank Integration via REST APIs: Enables banks to access and verify farmer profiles directly.
+* ☁️ Cloud Deployment: Ensures scalability and real-time access across regions.
 
 
 🧩 **Technologies Used**
 
-*Frontend: HTML5, CSS3, JavaScript, React.js
-*Backend: Node.js / Python (Flask or Django)
-*Database: MySQL / MongoDB
-*APIs: RESTful API for communication between modules
-*AI Tools: ChatGPT, Lovable AI, Bolt AI, Gamma AI, Canva, Design AI
-*Blockchain: For secure and tamper-proof data verification
-*Cloud Platform: IBM Cloud / AWS for hosting and storage
-*Security: SSL Encryption, OAuth 2.0, JWT Authentication
+* Frontend: HTML5, CSS3, JavaScript, React.js
+* Backend: Node.js / Python (Flask or Django)
+* Database: MySQL / MongoDB
+* APIs: RESTful API for communication between modules
+* AI Tools: ChatGPT, Lovable AI, Bolt AI, Gamma AI, Canva, Design AI
+* Blockchain: For secure and tamper-proof data verification
+* Cloud Platform: IBM Cloud / AWS for hosting and storage
+* Security: SSL Encryption, OAuth 2.0, JWT Authentication
 
 
 ⚙️ **System Architecture**
